@@ -1,7 +1,6 @@
-# DSC180A - Methodology 4
-
 ### Sharon Ni - s3ni@ucsd.edu
-##### B07 ALERTCalifornia - Extreme Events Detection - Nathan Hui
+#### B07 - ALERTCalifornia - Extreme Events Detection
+#### Mentor: Nathan Hui
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic covered in my domain this quarter is computer vision and the techniques used by computers to process and analyze visual information. Specifically, it was fascinating to learn about autoencoders and vision transformers and their promising application in developing anomaly detection models. 
